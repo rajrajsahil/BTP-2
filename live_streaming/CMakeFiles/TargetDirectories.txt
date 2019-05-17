@@ -1,0 +1,3 @@
+/home/sahilraj/ip/live_streaming/CMakeFiles/edit_cache.dir
+/home/sahilraj/ip/live_streaming/CMakeFiles/rebuild_cache.dir
+/home/sahilraj/ip/live_streaming/CMakeFiles/live.dir

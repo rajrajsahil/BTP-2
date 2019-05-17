@@ -1,0 +1,3 @@
+/home/sahilraj/Downloads/client/image/CMakeFiles/edit_cache.dir
+/home/sahilraj/Downloads/client/image/CMakeFiles/rebuild_cache.dir
+/home/sahilraj/Downloads/client/image/CMakeFiles/img.dir

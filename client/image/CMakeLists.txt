@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.0)
+project(kohli)
+find_package(OpenCV)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(img cli2.cpp)
+target_link_libraries(img ${OpenCV_LIBS})
